@@ -1,3 +1,7 @@
+# react_tree_table0
+
+Playing around with this library: https://react-table-library.com/ -- to try and display tree-structured data, like foreign key relations or a closure table.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
